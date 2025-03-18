@@ -6,9 +6,9 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Olá mundo em React</h1>
-      <ListarProdutos></ListarProdutos>
       <CadastrarProduto></CadastrarProduto>
+      <ListarProdutos></ListarProdutos>
+      
     </div>
   );
 }
